@@ -25,12 +25,11 @@ Reverse proxy to WebGUI of some services, implemented in NGINX PROXY MANAGER. Th
 	- 80
 ---
 
-
 # Reverse Proxy Rules
 
 Next there are some proxy rules as example.
 
-![[Pasted image 20261103192849.png|700]]
+![](Pasted_image_20261103192849.png)
 
 ## 🔐 Hardening and Security
 

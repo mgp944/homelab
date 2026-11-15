@@ -30,8 +30,7 @@ Monitors Internet, VMs and LXCs status in LAN2
 | [[VM OpenWRT]] | via Ping        | 192.168.2.1 |
 | INITERNET      | via Ping        | 8.8.8.8     |
 
-![[Pasted image 20261103190018.png]]
-
+![](Pasted_image_20261103190018.png)
 
 ---
 

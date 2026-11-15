@@ -2,7 +2,7 @@
 Runs Proxmox 9.2.3 whith different virtualized services vía LXC y VMs.
 
 
-![[Pasted image 20261103164257.png]]
+![[Pasted_image_20261103164257.png]]
 
 
 # Network

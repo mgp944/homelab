@@ -28,7 +28,7 @@ Detalles de conectividad y direccionamiento del contenedor.
 
 ### Adding to DC: **dc.lab.local**
 
-![[Pasted image 20261110122206.png]]
+![](Pasted_image_20261110122206.png)
 
 ## 🔐 Hardening and Security
 

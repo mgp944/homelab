@@ -1,11 +1,9 @@
 Based on [[ESP8266]] and the LM35. It sends data to an [[INFLUXDB]] instance via [[TELEGRAF]] The communication takes place using the MODBUS protocol.
 # Electronic Schema
 
+
 ![[Esp8266_lm35.png]]
-
 # [[ESP8266]] Configuration
-
-
 
 | Element      | Value                                                    |
 | ------------ | -------------------------------------------------------- |

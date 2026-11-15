@@ -2,6 +2,10 @@
 
 ---
 
+# Description
+
+Contains different dashboards from PVE sensors and ambiance temperature. 
+
 # 🛠️ Hardware Resources 
 
 | Parameter  | Configurtion |

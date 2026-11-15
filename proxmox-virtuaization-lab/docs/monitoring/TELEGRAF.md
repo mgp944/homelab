@@ -6,7 +6,6 @@ The data are received vía [[MODBUS]] which is a standart industry protocol
 
 ## 🛠️ Hardware Resources 
 
-
 | Parameter  | Configurtion |
 | :--------- | :----------- |
 | **ID LXC** | `CT 104`     |
@@ -14,7 +13,6 @@ The data are received vía [[MODBUS]] which is a standart industry protocol
 | vCPU       | 1 Core       |
 | RAM        | 512 MB       |
 | Storage    | 5 GB         |
-
 
 ## 🌐 Network Configuration
 Detalles de conectividad y direccionamiento del contenedor.

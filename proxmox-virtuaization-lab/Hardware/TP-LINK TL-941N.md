@@ -2,7 +2,7 @@
 
 ---
 
-![[Pasted image 20261027144425.png]]
+![[Pasted_image_20261027144425.png]]
 
 
 # Description
