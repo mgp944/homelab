@@ -16,7 +16,7 @@ Personal home lab.
 
 ### VMs and LXCs
 
-![](network_diagram.png)
+![](/proxmox-virtuaization-lab/diagrams/network_diagram.png)
 
 ## Technologies
 
