@@ -40,6 +40,6 @@ Personal home lab.
 
 # Hardware
 
-- Dell PowerEdge R210 II: host del PVE.
+- Dell PowerEdge R210 II: PVE host
 - Router TP-LINK TL-WR941ND: configured as bridge to home LAN and the server.
 - ESP8266: as thermometer.
