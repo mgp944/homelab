@@ -1,4 +1,4 @@
-# Home lab - Infrastructure & Virtualization
+# Home Lab - Infrastructure & Virtualization
 
 Personal home lab. 
 
