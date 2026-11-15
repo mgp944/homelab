@@ -16,7 +16,7 @@ Personal home lab.
 
 ### VMs and LXCs
 
-![[network_diagram.png|700]]
+![](network_diagram.png)
 
 ## Technologies
 
