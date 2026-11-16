@@ -28,11 +28,11 @@ Start-Process msiexec.exe -ArgumentList "/i D:\virtio-win-gt-x64.msi /qn /norest
 
 * List adapters
 
-![](media/Pasted_image_20261019154926.png)
+![](/media/Pasted_image_20261019154926.png)
 
 * Now the required adapter is available
 
-![](media/Pasted_image_20261019155052.png)
+![](/media/Pasted_image_20261019155052.png)
 
 
 * Applying Fordwarders
