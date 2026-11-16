@@ -2,14 +2,14 @@
 
 ---
 
-![[Pasted_image_20261027144425.png]]
+![](media/Pasted_image_20261027144425.png)
 
 
 # Description
 
 Used as **Relay Bridge** to connect to home LAN network.
 
-# Details
+# Hardware
 
 | Characteristic | Data            |
 | -------------- | --------------- |

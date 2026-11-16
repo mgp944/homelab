@@ -1,7 +1,10 @@
 
-![](Pasted_image_20261022140410.png)
 
 
+![](media/Pasted_image_20261022140410.png)
+
+
+# Hardware
 
 | Parameter | Value     |
 | --------- | --------- |
