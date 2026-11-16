@@ -28,11 +28,11 @@ Start-Process msiexec.exe -ArgumentList "/i D:\virtio-win-gt-x64.msi /qn /norest
 
 * List adapters
 
-![](Pasted_image_20261019154926.png)
+![](media/Pasted_image_20261019154926.png)
 
 * Now the required adapter is available
 
-![609](Pasted_image_20261019155052.png)
+![657](media/Pasted_image_20261019155052.png)
 
 
 * Applying Fordwarders
@@ -43,8 +43,7 @@ Start-Process msiexec.exe -ArgumentList "/i D:\virtio-win-gt-x64.msi /qn /norest
 ## Adding User as Example
 
 
-
-![Texto alternativo](media/Pasted_image_20261110123715.png)
+![](media/Pasted_image_20261110123715.png)
 
 
 Once the user was setted, we can login using the acccount with a new password 
