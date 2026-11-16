@@ -2,7 +2,7 @@
 
 ---
 
-![](media/Pasted_image_20261027144425.png)
+![](/media/Pasted_image_20261027144425.png)
 
 
 # Description

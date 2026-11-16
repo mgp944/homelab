@@ -27,6 +27,19 @@ Works as the main router for [[VLAN 2]]
 | Reverse Proxy         | 80       | 192.168.2.3  | 80        | TCP  | DNAT      | LAN Only        |
 | [[INFLUXDB]]          | 8084     | 192.168.2.13 | 8086      | TCP  | DNAT      | LAN Only        |
 
+![](/media/Pasted_image_20261116144338.png)
+
+# Ports Rules
+
+| Service | Port | Status |
+| ------- | ---- | ------ |
+| SSH     | 22   | open   |
+| WebGUI  | 8080 | open   |
+
+# Ping 
+
+ICMP packets are disabled from WAN.
+
 
 ----
 

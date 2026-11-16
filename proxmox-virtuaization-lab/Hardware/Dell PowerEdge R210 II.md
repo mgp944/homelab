@@ -1,7 +1,7 @@
 
+---
 
-
-![](media/Pasted_image_20261022140410.png)
+![](/media/Pasted_image_20261022140410.png)
 
 
 # Hardware
@@ -12,4 +12,4 @@
 | Cores     | 8         |
 | Storeage  | 480 GB    |
 | NICS      | 2 Gigabit |
-|           |           |
+

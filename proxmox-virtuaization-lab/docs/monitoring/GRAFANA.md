@@ -1,7 +1,5 @@
 
-
 ---
-
 # Description
 
 Contains different dashboards from PVE sensors and ambiance temperature. 
@@ -44,5 +42,3 @@ The next data are visualized:
 	- %CPU utilization is above to  90%
 	- %RAM utilization is above  to 95%
 	- %HDD utilization is above to  80%
-
-#todo Agregar Imagenes
