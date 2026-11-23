@@ -1,12 +1,10 @@
 
 ---
-
-#  Description
+# Description
 
 Windows IOT version as client machine. Due lack of hadware resources inside PVE, this version was used as example.
 
 ## 🛠️ Hardware Resources 
-
 
 | Parameter | Configurtion           |
 | :-------- | :--------------------- |
@@ -16,8 +14,8 @@ Windows IOT version as client machine. Due lack of hadware resources inside PVE,
 | RAM       | 2 GB                   |
 | Storage   | 20 GB                  |
 
+---
 ## 🌐 Network Configuration
-Detalles de conectividad y direccionamiento del contenedor.
 
 * **Interface:** `eth0` connected to Home LAN (simulating Internet)
 * **IP Address:**  (DHCP)
@@ -30,10 +28,14 @@ Detalles de conectividad y direccionamiento del contenedor.
 
 ![](/media/Pasted_image_20261110122206.png)
 
+
+---
+
 ## 🔐 Hardening and Security
 
 * **Access SSH:** Disallowed for all the users
 
+---
 ## 💾 Backup 
 
 > [!warning]

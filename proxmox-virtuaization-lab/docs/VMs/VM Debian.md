@@ -26,9 +26,10 @@ Detalle del aprovisionamiento asignado en el clúster de Proxmox VE.
 * **Gateway:** `192.168.3.1`
 -  **DNS**: 192.168.3.2
 
-
 ---
+# Security
 
+* SSH is disable for all the users.
 
 # Backup 
 

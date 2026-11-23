@@ -32,6 +32,9 @@ Monitors Internet, VMs and LXCs status in LAN2
 
 ![](/media/Pasted_image_20261103190018.png)
 
+
+![](Pasted%20image%2020261123153158.png)
+
 ---
 
 ## 🔐 Hardening and Security
